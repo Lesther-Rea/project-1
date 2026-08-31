@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#11152d" />
+    <title>Gallery | Hello, World!</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap");
+      * { box-sizing: border-box; }
+      body { background:#11152d; color:#f7f7ff; font-family:"Space Grotesk",Arial,sans-serif; margin:0; min-height:100vh; padding:24px; }
+      .orb { border-radius:50%; filter:blur(2px); opacity:.82; position:fixed; z-index:-1; } .orb-one { background:#9d7bff; height:34vw; left:-10vw; top:-12vw; width:34vw; } .orb-two { background:#00d6b3; bottom:-18vw; height:40vw; right:-12vw; width:40vw; }
+      main { backdrop-filter:blur(18px); background:rgba(23,29,61,.68); border:1px solid rgba(255,255,255,.22); border-radius:28px; box-shadow:0 28px 70px rgba(4,7,26,.45); margin:0 auto; max-width:1050px; padding:clamp(28px,5vw,60px); }
+      nav { display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin:0 0 52px; } nav a { color:#d1d5ef; font-size:.9rem; font-weight:600; text-decoration:none; } nav a:hover, nav a[aria-current="page"] { color:#9fffe9; }
+      header { margin:0 auto 36px; max-width:610px; text-align:center; } .eyebrow { color:#9fffe9; font-family:"DM Mono",monospace; font-size:.78rem; letter-spacing:.12em; margin:0 0 14px; text-transform:uppercase; } h1 { font-size:clamp(3rem,8vw,5.5rem); letter-spacing:-.07em; line-height:.95; margin:0; } h1 span { background:linear-gradient(115deg,#fff 20%,#b8a6ff 55%,#76f5d7 88%); -webkit-background-clip:text; background-clip:text; color:transparent; } .intro { color:#d1d5ef; line-height:1.65; margin:20px 0 0; }
+      .grid { display:grid; gap:16px; grid-template-columns:repeat(12,1fr); } .tile { border:1px solid rgba(255,255,255,.16); border-radius:18px; min-height:180px; overflow:hidden; padding:22px; position:relative; transition:transform .25s ease; } .tile:hover { transform:translateY(-5px); } .tile::after { background:linear-gradient(transparent,rgba(5,8,30,.62)); content:""; inset:0; position:absolute; } .tile > * { position:relative; z-index:1; } .tile-one { background:linear-gradient(135deg,#6b4fd3,#aa8bff); grid-column:span 7; min-height:280px; } .tile-two { background:linear-gradient(140deg,#0d917f,#62e9c8); grid-column:span 5; } .tile-three { background:linear-gradient(135deg,#f1825c,#e4b67f); grid-column:span 4; } .tile-four { background:linear-gradient(135deg,#2360a4,#64b7ef); grid-column:span 4; } .tile-five { background:linear-gradient(135deg,#d34788,#f091c0); grid-column:span 4; } .number { font-family:"DM Mono",monospace; font-size:.78rem; opacity:.9; } h2 { bottom:18px; font-size:clamp(1.3rem,3vw,2rem); letter-spacing:-.04em; margin:0; position:absolute; } .shape { background:rgba(255,255,255,.2); border:1px solid rgba(255,255,255,.3); border-radius:50%; height:115px; position:absolute; right:23px; top:20px; transform:rotate(25deg); width:115px; } .tile-two .shape { border-radius:18px; height:125px; transform:rotate(26deg); width:125px; } .tile-three .shape { height:78px; width:78px; } .tile-four .shape { border-radius:50% 50% 12px 50%; } .tile-five .shape { border-radius:50% 12px 50% 50%; }
+      @media (max-width:650px) { .tile-one,.tile-two,.tile-three,.tile-four,.tile-five { grid-column:span 12; min-height:180px; } .tile-one { min-height:220px; } }
+    </style>
+  </head>
+  <body>
+    <div class="orb orb-one"></div><div class="orb orb-two"></div>
+    <main>
+      <nav aria-label="Main navigation"><a href="index.html">Home</a><a href="about.html">About</a><a aria-current="page" href="gallery.html">Gallery</a><a href="contact.html">Contact</a></nav>
+      <header><p class="eyebrow">A small collection</p><h1>Colourful <span>ideas.</span></h1><p class="intro">A gallery of little visual moments, made to inspire the next one.</p></header>
+      <section class="grid" aria-label="Gallery">
+        <article class="tile tile-one"><span class="number">01 / VIOLET HORIZON</span><span class="shape"></span><h2>New perspectives</h2></article>
+        <article class="tile tile-two"><span class="number">02 / TIDELINE</span><span class="shape"></span><h2>Fresh currents</h2></article>
+        <article class="tile tile-three"><span class="number">03 / SUNSET</span><span class="shape"></span><h2>Warm spark</h2></article>
+        <article class="tile tile-four"><span class="number">04 / OPEN SKY</span><span class="shape"></span><h2>Clear focus</h2></article>
+        <article class="tile tile-five"><span class="number">05 / BLOOM</span><span class="shape"></span><h2>Good energy</h2></article>
+      </section>
+    </main>
+  </body>
+</html>
