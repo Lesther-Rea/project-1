@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#11152d" />
+    <title>Hello, World!</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap");
+
+      :root {
+        color-scheme: dark;
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        align-items: center;
+        background: #11152d;
+        color: #f7f7ff;
+        display: flex;
+        font-family: "Space Grotesk", Arial, sans-serif;
+        justify-content: center;
+        margin: 0;
+        min-height: 100vh;
+        overflow: hidden;
+        padding: 24px;
+      }
+
+      .orb {
+        border-radius: 50%;
+        filter: blur(2px);
+        opacity: .82;
+        position: fixed;
+      }
+
+      .orb-one {
+        background: #9d7bff;
+        height: 34vw;
+        left: -10vw;
+        top: -12vw;
+        width: 34vw;
+      }
+
+      .orb-two {
+        background: #00d6b3;
+        bottom: -18vw;
+        height: 40vw;
+        right: -12vw;
+        width: 40vw;
+      }
+
+      main {
+        backdrop-filter: blur(18px);
+        background: rgba(23, 29, 61, .68);
+        border: 1px solid rgba(255, 255, 255, .22);
+        border-radius: 28px;
+        box-shadow: 0 28px 70px rgba(4, 7, 26, .45);
+        max-width: 720px;
+        overflow: hidden;
+        padding: clamp(32px, 7vw, 72px);
+        position: relative;
+        text-align: center;
+        width: 100%;
+      }
+
+      .eyebrow {
+        align-items: center;
+        color: #9fffe9;
+        display: flex;
+        font-family: "DM Mono", monospace;
+        font-size: .78rem;
+        gap: 9px;
+        justify-content: center;
+        letter-spacing: .12em;
+        margin: 0 0 25px;
+        text-transform: uppercase;
+      }
+
+      .status-dot {
+        animation: pulse 1.8s ease-in-out infinite;
+        background: #7fffd4;
+        border-radius: 50%;
+        box-shadow: 0 0 0 5px rgba(127, 255, 212, .14);
+        height: 8px;
+        width: 8px;
+      }
+
+      h1 {
+        font-size: clamp(3.5rem, 11vw, 7.4rem);
+        letter-spacing: -.075em;
+        line-height: .9;
+        margin: 0;
+      }
+
+      h1 span {
+        background: linear-gradient(115deg, #fff 20%, #b8a6ff 55%, #76f5d7 88%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+      }
+
+      .subtitle {
+        color: #d1d5ef;
+        font-size: clamp(1rem, 2vw, 1.2rem);
+        line-height: 1.65;
+        margin: 30px auto;
+        max-width: 465px;
+      }
+
+      .button {
+        background: #f6f4ff;
+        border-radius: 999px;
+        color: #191c37;
+        display: inline-flex;
+        font-weight: 700;
+        gap: 10px;
+        padding: 14px 21px;
+        text-decoration: none;
+        transition: transform .2s ease, box-shadow .2s ease;
+      }
+
+      .button:hover {
+        box-shadow: 0 10px 25px rgba(174, 153, 255, .35);
+        transform: translateY(-3px);
+      }
+
+      .corner { color: #9ba2cb; font-family: "DM Mono", monospace; font-size: .7rem; margin: 45px 0 0; }
+
+      @keyframes pulse { 50% { box-shadow: 0 0 0 9px rgba(127, 255, 212, 0); } }
+    </style>
+  </head>
+  <body>
+    <div class="orb orb-one"></div>
+    <div class="orb orb-two"></div>
+    <main>
+      <p class="eyebrow"><span class="status-dot"></span> A bright new beginning</p>
+      <h1>Hello,<br /><span>World!</span></h1>
+      <p class="subtitle">A tiny page with big energy. Your next great idea can start right here.</p>
+      <a class="button" href="#hello">Start exploring <span aria-hidden="true">→</span></a>
+      <p class="corner" id="hello">// made with curiosity</p>
+    </main>
+  </body>
+</html>
