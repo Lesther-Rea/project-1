@@ -64,6 +64,10 @@
         width: 100%;
       }
 
+      nav { display: flex; gap: 20px; justify-content: center; margin: 0 0 38px; }
+      nav a { color: #d1d5ef; font-size: .9rem; font-weight: 600; text-decoration: none; }
+      nav a:hover, nav a[aria-current="page"] { color: #9fffe9; }
+
       .eyebrow {
         align-items: center;
         color: #9fffe9;
@@ -134,10 +138,15 @@
     <div class="orb orb-one"></div>
     <div class="orb orb-two"></div>
     <main>
+      <nav aria-label="Main navigation">
+        <a aria-current="page" href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+      </nav>
       <p class="eyebrow"><span class="status-dot"></span> A bright new beginning</p>
       <h1>Hello,<br /><span>World!</span></h1>
       <p class="subtitle">A tiny page with big energy. Your next great idea can start right here.</p>
-      <a class="button" href="#hello">Start exploring <span aria-hidden="true">→</span></a>
+      <a class="button" href="about.html">Start exploring <span aria-hidden="true">→</span></a>
       <p class="corner" id="hello">// made with curiosity</p>
     </main>
   </body>
