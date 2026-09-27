@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="51cm" height="20cm" viewBox="42 37 1002 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="44" y="61" width="746" height="375"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="44" y="61" width="746" height="375"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="417" y="252.4">
+      <tspan x="417" y="252.4"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="43.9" y="60.383" width="307.1" height="375"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="43.9" y="60.383" width="307.1" height="375"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="197.45" y="251.783">
+      <tspan x="197.45" y="251.783"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="703" y="60.383" width="340" height="375"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="703" y="60.383" width="340" height="375"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="873" y="251.783">
+      <tspan x="873" y="251.783"></tspan>
+    </text>
+  </g>
+  <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="107" y="84">
+    <tspan x="107" y="84">FACULTY DEPARTMENT</tspan>
+  </text>
+  <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="446" y="84">
+    <tspan x="446" y="84">ACQUISITION OFFICER</tspan>
+  </text>
+  <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="837" y="82">
+    <tspan x="837" y="82">CATALOGUER</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="44" y="96" width="307" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="44" y="96" width="307" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="197.5" y="118.9">
+      <tspan x="197.5" y="118.9">ALLOCATE BUDGET</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="349.986" y1="96.717" x2="700.02" y2="96.717"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="692.9" y1="96.453" x2="1042.93" y2="96.453"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="43.9" y1="96.3" x2="393.934" y2="96.3"/>
+  <g>
+    <rect style="fill: #ffffff" x="368.9" y="158.3" width="307" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="368.9" y="158.3" width="307" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="522.4" y="181.2">
+      <tspan x="522.4" y="181.2">PURCHACE REQUEST</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="368.9" y="217.3" width="307" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="368.9" y="217.3" width="307" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="522.4" y="240.2">
+      <tspan x="522.4" y="240.2">BUDGET APPROVAL</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="368.9" y="347.3" width="307" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="368.9" y="347.3" width="307" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="522.4" y="370.2">
+      <tspan x="522.4" y="370.2">ACQUIRE BOOK</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="727.944" y="347.072" width="307" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="727.944" y="347.072" width="307" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="881.444" y="369.972">
+      <tspan x="881.444" y="369.972">SHELVES BOOKS</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="197.5,135.01 197.5,177.3 364.428,177.3 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="356.664,182.3 366.664,177.3 356.664,172.3 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="120.75,134 120.75,245.8 364.428,245.8 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="356.664,250.8 366.664,245.8 356.664,240.8 "/>
+  </g>
+  <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="239.974" y="171.265">
+    <tspan x="239.974" y="171.265">SEND REQUEST</tspan>
+  </text>
+  <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="65.0674" y="262.922">
+    <tspan x="65.0674" y="262.922">ALLOCATE BUDGET</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="522.4" y1="255.3" x2="522.4" y2="342.828"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="517.4,335.064 522.4,345.064 527.4,335.064 "/>
+  </g>
+  <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="531.078" y="305.496">
+    <tspan x="531.078" y="305.496">VENDOR</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="675.9" y1="366.3" x2="723.472" y2="366.092"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="715.73,371.126 725.708,366.082 715.686,361.126 "/>
+  </g>
+  <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="52.8416" y="49.5678">
+    <tspan x="52.8416" y="49.5678">ACQUISITION AND CATALOGUE SWIM-LANES</tspan>
+  </text>
+</svg>
