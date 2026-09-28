@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="41cm" height="20cm" viewBox="152 61 811 386" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="154" y="62" width="808" height="124"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="154" y="62" width="808" height="124"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="558" y="127.9">
+      <tspan x="558" y="127.9"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="153.9" y="186.3" width="808" height="124"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="153.9" y="186.3" width="808" height="124"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="557.9" y="252.2">
+      <tspan x="557.9" y="252.2"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="153.9" y="310.3" width="808" height="124"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="153.9" y="310.3" width="808" height="124"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="557.9" y="376.2">
+      <tspan x="557.9" y="376.2"></tspan>
+    </text>
+  </g>
+  <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="166" y="127">
+    <tspan x="166" y="127">PATRON</tspan>
+  </text>
+  <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="164" y="240">
+    <tspan x="164" y="240">CIRCULATION </tspan>
+    <tspan x="164" y="256.002">DESK OFFICER</tspan>
+  </text>
+  <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="162" y="361">
+    <tspan x="162" y="361">HOLD SHELF</tspan>
+    <tspan x="162" y="377.002">SYSTEM</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="260" y1="64" x2="259" y2="431"/>
+  <g>
+    <rect style="fill: #ffffff" x="280.05" y="106" width="165.9" height="47"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="280.05" y="106" width="165.9" height="47"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="363" y="133.4">
+      <tspan x="363" y="133.4">PLACE HOLD ON TITLE</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="270.426" y="359.3" width="184.85" height="47"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="270.426" y="359.3" width="184.85" height="47"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="362.851" y="386.7">
+      <tspan x="362.851" y="386.7">2 HOUR PICKUP WINDOW</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="540.465,193.18 654.835,246.229 540.465,299.277 426.096,246.229 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="540.465,193.18 654.835,246.229 540.465,299.277 426.096,246.229 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="540.465" y="250.129">
+      <tspan x="540.465" y="250.129">PICK UP ITEM ON TIME</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="363" y1="153" x2="362.853" y2="354.828"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="357.859,347.06 362.852,357.064 367.859,347.068 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="455.276" y1="382.8" x2="537.273" y2="302.409"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="535.229,311.415 538.869,300.843 528.228,304.274 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="751.9" y="199.3" width="165.9" height="47"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="751.9" y="199.3" width="165.9" height="47"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="834.85" y="226.7">
+      <tspan x="834.85" y="226.7">YES | FULFILLED</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="751.8" y="253.6" width="165.9" height="47"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="751.8" y="253.6" width="165.9" height="47"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="834.75" y="281">
+      <tspan x="834.75" y="281">NO | EXPIRES</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="654.836" y1="246.228" x2="747.539" y2="275.743"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="738.624,278.152 749.669,276.422 741.658,268.623 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="654.836" y1="246.228" x2="747.553" y2="223.849"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="741.179,230.531 749.726,223.325 738.832,220.811 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="360" cy="419.875" rx="25.3749" ry="25.3749"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="360" cy="419.875" rx="25.3749" ry="25.3749"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="360" y1="394.5" x2="360" y2="401.5"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="372.688" y1="397.9" x2="370.688" y2="401.364"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="381.975" y1="407.188" x2="378.511" y2="409.188"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="385.375" y1="419.875" x2="379.375" y2="419.875"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="381.975" y1="432.563" x2="378.511" y2="430.563"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="372.688" y1="441.85" x2="370.688" y2="438.386"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="360" y1="445.25" x2="360" y2="439.25"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="347.313" y1="441.85" x2="349.313" y2="438.386"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="338.025" y1="432.563" x2="341.489" y2="430.563"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="334.625" y1="419.875" x2="340.625" y2="419.875"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="338.025" y1="407.188" x2="341.489" y2="409.188"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="347.313" y1="397.9" x2="349.313" y2="401.364"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00007f" x1="365.661" y1="431.23" x2="360" y2="419.875"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00007f" x1="373.583" y1="404.789" x2="360" y2="419.875"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.666667; stroke: #ff0000" x1="368.773" y1="439.579" x2="360" y2="419.875"/>
+    <ellipse style="fill: #ff0000" cx="360" cy="419.875" rx="2.25" ry="2.25"/>
+  </g>
+</svg>
