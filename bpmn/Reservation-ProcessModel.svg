@@ -89,20 +89,20 @@
     <ellipse style="fill: #ffffff" cx="360" cy="419.875" rx="25.3749" ry="25.3749"/>
     <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="360" cy="419.875" rx="25.3749" ry="25.3749"/>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="360" y1="394.5" x2="360" y2="401.5"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="372.688" y1="397.9" x2="370.688" y2="401.364"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="381.975" y1="407.188" x2="378.511" y2="409.188"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="372.687" y1="397.9" x2="370.687" y2="401.364"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="381.975" y1="407.187" x2="378.511" y2="409.187"/>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="385.375" y1="419.875" x2="379.375" y2="419.875"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="381.975" y1="432.563" x2="378.511" y2="430.563"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="372.688" y1="441.85" x2="370.688" y2="438.386"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="381.975" y1="432.562" x2="378.511" y2="430.562"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="372.687" y1="441.85" x2="370.687" y2="438.386"/>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="360" y1="445.25" x2="360" y2="439.25"/>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="347.313" y1="441.85" x2="349.313" y2="438.386"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="338.025" y1="432.563" x2="341.489" y2="430.563"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="338.025" y1="432.562" x2="341.489" y2="430.562"/>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="334.625" y1="419.875" x2="340.625" y2="419.875"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="338.025" y1="407.188" x2="341.489" y2="409.188"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="338.025" y1="407.187" x2="341.489" y2="409.187"/>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="347.313" y1="397.9" x2="349.313" y2="401.364"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00007f" x1="365.661" y1="431.23" x2="360" y2="419.875"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00007f" x1="373.583" y1="404.789" x2="360" y2="419.875"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 0.666667; stroke: #ff0000" x1="368.773" y1="439.579" x2="360" y2="419.875"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00007f" x1="364.855" y1="431.597" x2="360" y2="419.875"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00007f" x1="380.3" y1="419.875" x2="360" y2="419.875"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.666667; stroke: #ff0000" x1="349.216" y1="438.554" x2="360" y2="419.875"/>
     <ellipse style="fill: #ff0000" cx="360" cy="419.875" rx="2.25" ry="2.25"/>
   </g>
 </svg>
