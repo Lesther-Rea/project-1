@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="53cm" height="38cm" viewBox="17 -181 1044 745" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="18.9095" y="54.6818" width="1041" height="235"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="18.9095" y="54.6818" width="1041" height="235"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="539.409" y="176.082">
+      <tspan x="539.409" y="176.082"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="19.5016" y="-179.103" width="1041" height="235"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="19.5016" y="-179.103" width="1041" height="235"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="540.001" y="-57.7031">
+      <tspan x="540.001" y="-57.7031"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="18.5282" y="289.11" width="1041" height="235"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="18.5282" y="289.11" width="1041" height="235"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="539.028" y="410.51">
+      <tspan x="539.028" y="410.51"></tspan>
+    </text>
+  </g>
+  <text font-size="18.446" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="48.214" y="167.86">
+    <tspan x="48.214" y="167.86">Circulation</tspan>
+    <tspan x="48.214" y="190.917">Desk </tspan>
+    <tspan x="48.214" y="213.975">Officer</tspan>
+  </text>
+  <text font-size="18.446" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="48.214" y="-55.818">
+    <tspan x="48.214" y="-55.818">Patron</tspan>
+  </text>
+  <text font-size="18.446" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="28.0326" y="398.265">
+    <tspan x="28.0326" y="398.265">Database </tspan>
+    <tspan x="28.0326" y="421.322">System</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="154.28" y1="-179.022" x2="154.093" y2="524.018"/>
+  <ellipse style="fill: #000000" cx="199.678" cy="-70.6388" rx="10" ry="10"/>
+  <g>
+    <rect style="fill: #ffffff" x="374.186" y="-89.4226" width="161.65" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="374.186" y="-89.4226" width="161.65" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="455.011" y="-66.5226">
+      <tspan x="455.011" y="-66.5226">Submit Details and ID</tspan>
+    </text>
+  </g>
+  <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="173.599" y="-107.45">
+    <tspan x="173.599" y="-107.45">Request Account or </tspan>
+    <tspan x="173.599" y="-91.4477">Registration.</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="209.678" y1="-70.6388" x2="369.714" y2="-70.4285"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="361.944,-65.4387 371.95,-70.4255 361.957,-75.4387 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="332.765" y="149.596" width="161.65" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="332.765" y="149.596" width="161.65" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="413.59" y="172.496">
+      <tspan x="413.59" y="172.496">Verify Identification</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 20; stroke: #000000" x1="414.599" y1="-51.4226" x2="413.612" y2="145.124"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="408.651,137.335 413.601,147.36 418.651,137.386 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="539.193" y="149.596" width="161.65" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="539.193" y="149.596" width="161.65" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="620.018" y="172.496">
+      <tspan x="620.018" y="172.496">Valid Status?</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="494.415" y1="168.596" x2="534.721" y2="168.596"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="526.957,173.596 536.957,168.596 526.957,163.596 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="762.745" y="88.5285" width="161.65" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="762.745" y="88.5285" width="161.65" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="843.57" y="111.428">
+      <tspan x="843.57" y="111.428">Rejected Application</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1026.58" cy="107.763" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1026.58" cy="107.763" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="1026.58" cy="107.763" rx="10" ry="10"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="924.395" y1="107.528" x2="1007.11" y2="107.751"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="999.329,112.73 1009.34,107.757 999.356,102.73 "/>
+  </g>
+  <text font-size="12.8016" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="995.221" y="76.4054">
+    <tspan x="995.221" y="76.4054">Rejected</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="700.843" y1="168.596" x2="759.562" y2="110.669"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="757.546,119.681 761.154,109.099 750.523,112.562 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="539.263" y="379.383" width="161.65" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="539.263" y="379.383" width="161.65" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="620.088" y="402.283">
+      <tspan x="620.088" y="402.283">Determine Borrower</tspan>
+      <tspan x="620.088" y="418.283">Category &amp; Limits</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="314.96,497.822 644.36,497.822 656.36,509.822 656.36,563.822 314.96,563.822 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="314.96,497.822 644.36,497.822 656.36,509.822 656.36,563.822 314.96,563.822 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="644.36,497.822 644.36,509.822 656.36,509.822 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="321.96" y="522.722">
+      <tspan x="321.96" y="522.722">6 books/14 days for students, 10 books/3 </tspan>
+      <tspan x="321.96" y="538.722">months for academic staff, 2 books/2 days </tspan>
+      <tspan x="321.96" y="554.722">for flexible learning</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="485.66" y1="497.822" x2="579.675" y2="433.383"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="579.605" y1="187.596" x2="579.673" y2="374.911"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="574.671,367.149 579.674,377.147 584.671,367.145 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="741.124" y="380.323" width="164.404" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="741.124" y="380.323" width="164.404" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="823.326" y="403.223">
+      <tspan x="823.326" y="403.223">Create Account &amp; </tspan>
+      <tspan x="823.326" y="419.223">Set Active Status</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="700.913" y1="406.383" x2="736.653" y2="407.218"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="728.775,412.035 738.889,407.27 729.008,402.038 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="998.556" cy="406.254" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="998.556" cy="406.254" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="998.556" cy="406.254" rx="10" ry="10"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="905.529" y1="407.323" x2="973.82" y2="406.387"/>
+    <polygon style="fill: #000000" points="981.32,406.285 971.389,411.421 973.82,406.387 971.252,401.422 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="981.32,406.285 971.389,411.421 973.82,406.387 971.252,401.422 "/>
+  </g>
+</svg>
