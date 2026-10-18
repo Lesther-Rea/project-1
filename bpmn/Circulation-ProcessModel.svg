@@ -1,215 +1,253 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="68cm" height="33cm" viewBox="173 44 1349 642" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="71cm" height="34cm" viewBox="117 54 1416 672" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
     <g>
-      <g>
-        <rect style="fill: #ffffff" x="174.913" y="45.1914" width="1346" height="214.188"/>
-        <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="174.913" y="45.1914" width="1346" height="214.188"/>
-      </g>
-      <rect style="fill: none; fill-opacity:0; stroke-width: 0.020636; stroke: #ffffff" x="174.913" y="45.1914" width="1346" height="214.188"/>
+      <rect style="fill: #ffffff" x="118.875" y="55.8756" width="1412.62" height="222.757"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="118.875" y="55.8756" width="1412.62" height="222.757"/>
     </g>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x="174.913" y="45.1914" width="1346" height="214.188"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="847.911" y="156.9">
-      <tspan x="847.911" y="156.9"></tspan>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x="118.875" y="55.8756" width="1412.62" height="222.757"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="825.185" y="171.536">
+      <tspan x="825.185" y="171.536"></tspan>
     </text>
   </g>
   <g>
     <g>
-      <g>
-        <rect style="fill: #ffffff" x="176.202" y="258.326" width="1344.71" height="214.188"/>
-        <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="176.202" y="258.326" width="1344.71" height="214.188"/>
-      </g>
-      <rect style="fill: none; fill-opacity:0; stroke-width: 0.020636; stroke: #ffffff" x="176.202" y="258.326" width="1344.71" height="214.188"/>
+      <rect style="fill: #ffffff" x="118.145" y="55.1182" width="227.666" height="223.672"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="118.145" y="55.1182" width="227.666" height="223.672"/>
     </g>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x="176.202" y="258.326" width="1344.71" height="214.188"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="848.556" y="370.035">
-      <tspan x="848.556" y="370.035"></tspan>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x="118.145" y="55.1182" width="227.666" height="223.672"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="231.979" y="171.237">
+      <tspan x="231.979" y="171.237"></tspan>
     </text>
   </g>
   <g>
     <g>
-      <g>
-        <rect style="fill: #ffffff" x="176.083" y="470.502" width="1344.82" height="214.188"/>
-        <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="176.083" y="470.502" width="1344.82" height="214.188"/>
-      </g>
-      <rect style="fill: none; fill-opacity:0; stroke-width: 0.020636; stroke: #ffffff" x="176.083" y="470.502" width="1344.82" height="214.188"/>
+      <rect style="fill: #ffffff" x="119.192" y="278.032" width="1412.62" height="222.757"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="119.192" y="278.032" width="1412.62" height="222.757"/>
     </g>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x="176.083" y="470.502" width="1344.82" height="214.188"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="848.497" y="582.211">
-      <tspan x="848.497" y="582.211"></tspan>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x="119.192" y="278.032" width="1412.62" height="222.757"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="825.501" y="393.692">
+      <tspan x="825.501" y="393.692"></tspan>
     </text>
   </g>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="192.83" y="369.878">
-    <tspan x="192.83" y="369.878">CIRCULATION DESK OFFICER</tspan>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="118.461" y="278.698" width="227.666" height="223.672"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="118.461" y="278.698" width="227.666" height="223.672"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x="118.461" y="278.698" width="227.666" height="223.672"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="232.295" y="394.817">
+      <tspan x="232.295" y="394.817"></tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="119.192" y="500.124" width="1412.62" height="222.757"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="119.192" y="500.124" width="1412.62" height="222.757"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x="119.192" y="500.124" width="1412.62" height="222.757"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="825.501" y="615.785">
+      <tspan x="825.501" y="615.785"></tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #ffffff" x="118.461" y="500.791" width="227.666" height="223.672"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="118.461" y="500.791" width="227.666" height="223.672"/>
+    </g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x="118.461" y="500.791" width="227.666" height="223.672"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="232.295" y="616.909">
+      <tspan x="232.295" y="616.909"></tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="165.055" y="168.379">
+    <tspan x="165.055" y="168.379">PATRON</tspan>
   </text>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="195.26" y="583.907">
-    <tspan x="195.26" y="583.907">LIBRARY</tspan>
-  </text>
-  <line style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x1="511.413" y1="45.1914" x2="510.882" y2="684.689"/>
-  <g>
-    <g>
-      <g>
-        <rect style="fill: #ffffff" x="568.2" y="113.089" width="111.174" height="76.791"/>
-        <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="568.2" y="113.089" width="111.174" height="76.791"/>
-      </g>
-      <rect style="fill: none; fill-opacity:0; stroke-width: 0.020636; stroke: #ffffff" x="568.2" y="113.089" width="111.174" height="76.791"/>
-    </g>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x="568.2" y="113.089" width="111.174" height="76.791"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="623.786" y="156.1">
-      <tspan x="623.786" y="156.1">START</tspan>
-    </text>
-  </g>
-  <g>
-    <g>
-      <g>
-        <polygon style="fill: #ffffff" points="622.827,316.138 726.089,367.77 622.827,419.401 519.564,367.77 "/>
-        <polygon style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" points="622.827,316.138 726.089,367.77 622.827,419.401 519.564,367.77 "/>
-      </g>
-      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.020636; stroke: #ffffff" points="622.827,316.138 726.089,367.77 622.827,419.401 519.564,367.77 "/>
-    </g>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" points="622.827,316.138 726.089,367.77 622.827,419.401 519.564,367.77 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="622.827" y="372.385">
-      <tspan x="622.827" y="372.385">RETURN BOOK</tspan>
-    </text>
-  </g>
-  <g>
-    <g>
-      <g>
-        <rect style="fill: #ffffff" x="755" y="289.993" width="111.174" height="76.791"/>
-        <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="755" y="289.993" width="111.174" height="76.791"/>
-      </g>
-      <rect style="fill: none; fill-opacity:0; stroke-width: 0.020636; stroke: #ffffff" x="755" y="289.993" width="111.174" height="76.791"/>
-    </g>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x="755" y="289.993" width="111.174" height="76.791"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="810.586" y="333.003">
-      <tspan x="810.586" y="333.003">LOST</tspan>
-    </text>
-  </g>
-  <g>
-    <g>
-      <g>
-        <rect style="fill: #ffffff" x="754.859" y="381.888" width="111.174" height="76.791"/>
-        <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="754.859" y="381.888" width="111.174" height="76.791"/>
-      </g>
-      <rect style="fill: none; fill-opacity:0; stroke-width: 0.020636; stroke: #ffffff" x="754.859" y="381.888" width="111.174" height="76.791"/>
-    </g>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x="754.859" y="381.888" width="111.174" height="76.791"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="810.447" y="424.897">
-      <tspan x="810.447" y="424.897">NOT LOST</tspan>
-    </text>
-  </g>
-  <g>
-    <g>
-      <g>
-        <polygon style="fill: #ffffff" points="987.594,520.697 1096.66,575.229 987.594,629.758 878.532,575.229 "/>
-        <polygon style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" points="987.594,520.697 1096.66,575.229 987.594,629.758 878.532,575.229 "/>
-      </g>
-      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.020636; stroke: #ffffff" points="987.594,520.697 1096.66,575.229 987.594,629.758 878.532,575.229 "/>
-    </g>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" points="987.594,520.697 1096.66,575.229 987.594,629.758 878.532,575.229 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="987.594" y="570.377">
-      <tspan x="987.594" y="570.377">VERIFIES</tspan>
-      <tspan x="987.594" y="586.377">ELIGIBILITY</tspan>
-    </text>
-  </g>
-  <g>
-    <g>
-      <g>
-        <rect style="fill: #ffffff" x="1133.79" y="496.86" width="144.487" height="76.791"/>
-        <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="1133.79" y="496.86" width="144.487" height="76.791"/>
-      </g>
-      <rect style="fill: none; fill-opacity:0; stroke-width: 0.020636; stroke: #ffffff" x="1133.79" y="496.86" width="144.487" height="76.791"/>
-    </g>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x="1133.79" y="496.86" width="144.487" height="76.791"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1206.03" y="539.87">
-      <tspan x="1206.03" y="539.87">LOAN CREATED</tspan>
-    </text>
-  </g>
-  <g>
-    <g>
-      <g>
-        <rect style="fill: #ffffff" x="1134.67" y="587.346" width="181.822" height="76.791"/>
-        <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="1134.67" y="587.346" width="181.822" height="76.791"/>
-      </g>
-      <rect style="fill: none; fill-opacity:0; stroke-width: 0.020636; stroke: #ffffff" x="1134.67" y="587.346" width="181.822" height="76.791"/>
-    </g>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x="1134.67" y="587.346" width="181.822" height="76.791"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1225.58" y="630.357">
-      <tspan x="1225.58" y="630.357">LOAN NOT CREATED</tspan>
-    </text>
-  </g>
-  <g>
-    <g>
-      <g>
-        <rect style="fill: #ffffff" x="1365.74" y="568.63" width="111.174" height="76.791"/>
-        <rect style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" x="1365.74" y="568.63" width="111.174" height="76.791"/>
-      </g>
-      <rect style="fill: none; fill-opacity:0; stroke-width: 0.020636; stroke: #ffffff" x="1365.74" y="568.63" width="111.174" height="76.791"/>
-    </g>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x="1365.74" y="568.63" width="111.174" height="76.791"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1421.34" y="611.641">
-      <tspan x="1421.34" y="611.641">UPDATE</tspan>
-    </text>
-  </g>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x1="623.786" y1="189.879" x2="622.866" y2="310.846"/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" points="617.019,301.613 622.845,313.491 628.852,301.703 "/>
-  </g>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x1="688.978" y1="348.06" x2="749.927" y2="329.899"/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" points="742.812,338.193 752.463,329.144 739.434,326.852 "/>
-  </g>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x1="674.458" y1="393.586" x2="749.837" y2="418.616"/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" points="739.253,421.334 752.349,419.448 742.982,410.104 "/>
-  </g>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x1="866.031" y1="420.283" x2="928.147" y2="420.671"/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" points="918.923,426.529 930.794,420.687 918.996,414.697 "/>
-  </g>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x1="1070.94" y1="561.596" x2="1128.91" y2="537.301"/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" points="1122.71,546.308 1131.34,536.277 1118.14,535.396 "/>
-  </g>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x1="1070.94" y1="588.861" x2="1129.58" y2="605.128"/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" points="1119.14,608.373 1132.12,605.835 1122.3,596.971 "/>
-  </g>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x1="1316.5" y1="606.543" x2="1360.45" y2="606.973"/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" points="1351.22,612.8 1363.1,606.999 1351.33,600.967 "/>
-  </g>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" x1="511.325" y1="151.775" x2="562.908" y2="151.511"/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2.36671; stroke: #000000" points="553.751,157.475 565.553,151.497 553.691,145.641 "/>
-  </g>
-  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="194.589" y="144.817">
-    <tspan x="194.589" y="144.817">PATRON</tspan>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="163.948" y="379.143">
+    <tspan x="163.948" y="379.143">CIRCULATION</tspan>
+    <tspan x="163.948" y="395.143">DESK </tspan>
+    <tspan x="163.948" y="411.143">OFFICER</tspan>
   </text>
   <g>
-    <rect style="fill: #ffffff" x="933.139" y="401" width="110" height="52"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="933.139" y="401" width="110" height="52"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="988.139" y="430.9">
-      <tspan x="988.139" y="430.9">Scan Task</tspan>
+    <g>
+      <ellipse style="fill: #ffffff" cx="404.533" cy="171.986" rx="43.0893" ry="43.0893"/>
+      <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" cx="404.533" cy="171.986" rx="43.0893" ry="43.0893"/>
+    </g>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" cx="404.533" cy="171.986" rx="43.0893" ry="43.0893"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" cx="404.533" cy="171.986" rx="43.0893" ry="43.0893"/>
+  </g>
+  <g>
+    <g>
+      <path style="fill: #ffffff" d="M 586.773 148.801 C 622.27,148.801 799.754,148.801 835.251,148.801 C 870.747,148.801 870.747,148.801 870.747,156.386 C 870.747,163.972 870.747,179.144 870.747,186.73 C 870.747,194.316 870.747,194.316 835.251,194.316 C 799.754,194.316 622.27,194.316 586.773,194.316 C 551.276,194.316 551.276,194.316 551.276,186.73 C 551.276,179.144 551.276,163.972 551.276,156.386 C 551.276,148.801 551.276,148.801 586.773,148.801z"/>
+      <path style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" d="M 586.773 148.801 C 622.27,148.801 799.754,148.801 835.251,148.801 C 870.747,148.801 870.747,148.801 870.747,156.386 C 870.747,163.972 870.747,179.144 870.747,186.73 C 870.747,194.316 870.747,194.316 835.251,194.316 C 799.754,194.316 622.27,194.316 586.773,194.316 C 551.276,194.316 551.276,194.316 551.276,186.73 C 551.276,179.144 551.276,163.972 551.276,156.386 C 551.276,148.801 551.276,148.801 586.773,148.801"/>
+    </g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" d="M 586.773 148.801 C 622.27,148.801 799.754,148.801 835.251,148.801 C 870.747,148.801 870.747,148.801 870.747,156.386 C 870.747,163.972 870.747,179.144 870.747,186.73 C 870.747,194.316 870.747,194.316 835.251,194.316 C 799.754,194.316 622.27,194.316 586.773,194.316 C 551.276,194.316 551.276,194.316 551.276,186.73 C 551.276,179.144 551.276,163.972 551.276,156.386 C 551.276,148.801 551.276,148.801 586.773,148.801"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" d="M 586.773 148.801 C 622.27,148.801 799.754,148.801 835.251,148.801 C 870.747,148.801 870.747,148.801 870.747,156.386 C 870.747,163.972 870.747,179.144 870.747,186.73 C 870.747,194.316 870.747,194.316 835.251,194.316 C 799.754,194.316 622.27,194.316 586.773,194.316 C 551.276,194.316 551.276,194.316 551.276,186.73 C 551.276,179.144 551.276,163.972 551.276,156.386 C 551.276,148.801 551.276,148.801 586.773,148.801"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="586.773" y1="194.316" x2="835.251" y2="194.316"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="870.747" y1="156.386" x2="870.747" y2="186.73"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="551.276" y1="156.386" x2="551.276" y2="186.73"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="586.773" y1="148.801" x2="835.251" y2="148.801"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="711.012" y="167.166">
+      <tspan x="711.012" y="167.166">Patron presents book for checkout/return </tspan>
+      <tspan x="711.012" y="183.166">at the desk</tspan>
     </text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="940.225" y="301.866" width="217.5" height="54"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="940.225" y="301.866" width="217.5" height="54"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1048.97" y="324.766">
-      <tspan x="1048.97" y="324.766">Lost item penalty or clearance</tspan>
-      <tspan x="1048.97" y="340.766">record.</tspan>
+    <g>
+      <polygon style="fill: #ffffff" points="710.233,544.265 773.895,607.929 710.233,671.593 646.569,607.929 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" points="710.233,544.265 773.895,607.929 710.233,671.593 646.569,607.929 "/>
+    </g>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" points="710.233,544.265 773.895,607.929 710.233,671.593 646.569,607.929 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" points="710.233,544.265 773.895,607.929 710.233,671.593 646.569,607.929 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="353.096" y="567.558">
+    <tspan x="353.096" y="567.558">Check eligibility (active status, no fine blocks)</tspan>
+  </text>
+  <g>
+    <g>
+      <path style="fill: #ffffff" d="M 918.053 617.657 C 939.851,617.657 1048.84,617.657 1070.64,617.657 C 1092.44,617.657 1092.44,617.657 1092.44,624.977 C 1092.44,632.297 1092.44,646.937 1092.44,654.257 C 1092.44,661.576 1092.44,661.576 1070.64,661.576 C 1048.84,661.576 939.851,661.576 918.053,661.576 C 896.254,661.576 896.254,661.576 896.254,654.257 C 896.254,646.937 896.254,632.297 896.254,624.977 C 896.254,617.657 896.254,617.657 918.053,617.657z"/>
+      <path style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" d="M 918.053 617.657 C 939.851,617.657 1048.84,617.657 1070.64,617.657 C 1092.44,617.657 1092.44,617.657 1092.44,624.977 C 1092.44,632.297 1092.44,646.937 1092.44,654.257 C 1092.44,661.576 1092.44,661.576 1070.64,661.576 C 1048.84,661.576 939.851,661.576 918.053,661.576 C 896.254,661.576 896.254,661.576 896.254,654.257 C 896.254,646.937 896.254,632.297 896.254,624.977 C 896.254,617.657 896.254,617.657 918.053,617.657"/>
+    </g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" d="M 918.053 617.657 C 939.851,617.657 1048.84,617.657 1070.64,617.657 C 1092.44,617.657 1092.44,617.657 1092.44,624.977 C 1092.44,632.297 1092.44,646.937 1092.44,654.257 C 1092.44,661.576 1092.44,661.576 1070.64,661.576 C 1048.84,661.576 939.851,661.576 918.053,661.576 C 896.254,661.576 896.254,661.576 896.254,654.257 C 896.254,646.937 896.254,632.297 896.254,624.977 C 896.254,617.657 896.254,617.657 918.053,617.657"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" d="M 918.053 617.657 C 939.851,617.657 1048.84,617.657 1070.64,617.657 C 1092.44,617.657 1092.44,617.657 1092.44,624.977 C 1092.44,632.297 1092.44,646.937 1092.44,654.257 C 1092.44,661.576 1092.44,661.576 1070.64,661.576 C 1048.84,661.576 939.851,661.576 918.053,661.576 C 896.254,661.576 896.254,661.576 896.254,654.257 C 896.254,646.937 896.254,632.297 896.254,624.977 C 896.254,617.657 896.254,617.657 918.053,617.657"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="918.053" y1="661.576" x2="1070.64" y2="661.576"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="1092.44" y1="624.977" x2="1092.44" y2="654.257"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="896.254" y1="624.977" x2="896.254" y2="654.257"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="918.053" y1="617.657" x2="1070.64" y2="617.657"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="994.345" y="644.008">
+      <tspan x="994.345" y="644.008">Create active loan record</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="793.295" y="630.337">
+    <tspan x="793.295" y="630.337">Eligible</tspan>
+  </text>
+  <g>
+    <g>
+      <path style="fill: #ffffff" d="M 835.686 351.763 C 863.077,351.763 1000.03,351.763 1027.42,351.763 C 1054.81,351.763 1054.81,351.763 1054.81,359.349 C 1054.81,366.935 1054.81,382.107 1054.81,389.694 C 1054.81,397.28 1054.81,397.28 1027.42,397.28 C 1000.03,397.28 863.077,397.28 835.686,397.28 C 808.295,397.28 808.295,397.28 808.295,389.694 C 808.295,382.107 808.295,366.935 808.295,359.349 C 808.295,351.763 808.295,351.763 835.686,351.763z"/>
+      <path style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" d="M 835.686 351.763 C 863.077,351.763 1000.03,351.763 1027.42,351.763 C 1054.81,351.763 1054.81,351.763 1054.81,359.349 C 1054.81,366.935 1054.81,382.107 1054.81,389.694 C 1054.81,397.28 1054.81,397.28 1027.42,397.28 C 1000.03,397.28 863.077,397.28 835.686,397.28 C 808.295,397.28 808.295,397.28 808.295,389.694 C 808.295,382.107 808.295,366.935 808.295,359.349 C 808.295,351.763 808.295,351.763 835.686,351.763"/>
+    </g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" d="M 835.686 351.763 C 863.077,351.763 1000.03,351.763 1027.42,351.763 C 1054.81,351.763 1054.81,351.763 1054.81,359.349 C 1054.81,366.935 1054.81,382.107 1054.81,389.694 C 1054.81,397.28 1054.81,397.28 1027.42,397.28 C 1000.03,397.28 863.077,397.28 835.686,397.28 C 808.295,397.28 808.295,397.28 808.295,389.694 C 808.295,382.107 808.295,366.935 808.295,359.349 C 808.295,351.763 808.295,351.763 835.686,351.763"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" d="M 835.686 351.763 C 863.077,351.763 1000.03,351.763 1027.42,351.763 C 1054.81,351.763 1054.81,351.763 1054.81,359.349 C 1054.81,366.935 1054.81,382.107 1054.81,389.694 C 1054.81,397.28 1054.81,397.28 1027.42,397.28 C 1000.03,397.28 863.077,397.28 835.686,397.28 C 808.295,397.28 808.295,397.28 808.295,389.694 C 808.295,382.107 808.295,366.935 808.295,359.349 C 808.295,351.763 808.295,351.763 835.686,351.763"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="835.686" y1="397.28" x2="1027.42" y2="397.28"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="1054.81" y1="359.349" x2="1054.81" y2="389.694"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="808.295" y1="359.349" x2="808.295" y2="389.694"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="835.686" y1="351.763" x2="1027.42" y2="351.763"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="931.555" y="370.129">
+      <tspan x="931.555" y="370.129">Desk officer physically receives </tspan>
+      <tspan x="931.555" y="386.129">the book and scans it.</tspan>
     </text>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="866.173" y1="328.389" x2="930.489" y2="328.803"/>
-    <polygon style="fill: #000000" points="937.989,328.851 927.957,333.787 930.489,328.803 928.021,323.787 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="937.989,328.851 927.957,333.787 930.489,328.803 928.021,323.787 "/>
+    <g>
+      <path style="fill: #ffffff" d="M 835.621 520.924 C 881.012,520.924 1107.98,520.924 1153.37,520.924 C 1198.76,520.924 1198.76,520.924 1198.76,531.705 C 1198.76,542.485 1198.76,564.045 1198.76,574.825 C 1198.76,585.605 1198.76,585.605 1153.37,585.605 C 1107.98,585.605 881.012,585.605 835.621,585.605 C 790.23,585.605 790.23,585.605 790.23,574.825 C 790.23,564.045 790.23,542.485 790.23,531.705 C 790.23,520.924 790.23,520.924 835.621,520.924z"/>
+      <path style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" d="M 835.621 520.924 C 881.012,520.924 1107.98,520.924 1153.37,520.924 C 1198.76,520.924 1198.76,520.924 1198.76,531.705 C 1198.76,542.485 1198.76,564.045 1198.76,574.825 C 1198.76,585.605 1198.76,585.605 1153.37,585.605 C 1107.98,585.605 881.012,585.605 835.621,585.605 C 790.23,585.605 790.23,585.605 790.23,574.825 C 790.23,564.045 790.23,542.485 790.23,531.705 C 790.23,520.924 790.23,520.924 835.621,520.924"/>
+    </g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" d="M 835.621 520.924 C 881.012,520.924 1107.98,520.924 1153.37,520.924 C 1198.76,520.924 1198.76,520.924 1198.76,531.705 C 1198.76,542.485 1198.76,564.045 1198.76,574.825 C 1198.76,585.605 1198.76,585.605 1153.37,585.605 C 1107.98,585.605 881.012,585.605 835.621,585.605 C 790.23,585.605 790.23,585.605 790.23,574.825 C 790.23,564.045 790.23,542.485 790.23,531.705 C 790.23,520.924 790.23,520.924 835.621,520.924"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" d="M 835.621 520.924 C 881.012,520.924 1107.98,520.924 1153.37,520.924 C 1198.76,520.924 1198.76,520.924 1198.76,531.705 C 1198.76,542.485 1198.76,564.045 1198.76,574.825 C 1198.76,585.605 1198.76,585.605 1153.37,585.605 C 1107.98,585.605 881.012,585.605 835.621,585.605 C 790.23,585.605 790.23,585.605 790.23,574.825 C 790.23,564.045 790.23,542.485 790.23,531.705 C 790.23,520.924 790.23,520.924 835.621,520.924"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="835.621" y1="585.605" x2="1153.37" y2="585.605"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="1198.76" y1="531.705" x2="1198.76" y2="574.825"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="790.23" y1="531.705" x2="790.23" y2="574.825"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" x1="835.621" y1="520.924" x2="1153.37" y2="520.924"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="994.491" y="540.09">
+      <tspan x="994.491" y="540.09">System processes return so it is no longer marked as </tspan>
+      <tspan x="994.491" y="556.09">"on loan" (note: physical return and system update </tspan>
+      <tspan x="994.491" y="572.09">must both happen for the system to know it's back)</tspan>
+    </text>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="988.139" y1="453" x2="987.672" y2="510.961"/>
-    <polygon style="fill: #000000" points="987.612,518.461 982.693,508.421 987.672,510.961 992.692,508.502 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="987.612,518.461 982.693,508.421 987.672,510.961 992.692,508.502 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x1="711.012" y1="194.316" x2="710.256" y2="533.575"/>
+    <g>
+      <polygon style="fill: #000000" points="710.238,541.81 704.772,530.818 710.256,533.575 715.752,530.842 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" points="710.238,541.81 704.772,530.818 710.256,533.575 715.752,530.842 "/>
+    </g>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" points="710.238,541.81 704.772,530.818 710.256,533.575 715.752,530.842 "/>
   </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x1="447.623" y1="171.986" x2="540.586" y2="171.602"/>
+    <g>
+      <polygon style="fill: #000000" points="548.821,171.568 537.864,177.103 540.586,171.602 537.819,166.123 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" points="548.821,171.568 537.864,177.103 540.586,171.602 537.819,166.123 "/>
+    </g>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" points="548.821,171.568 537.864,177.103 540.586,171.602 537.819,166.123 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x1="742.064" y1="639.76" x2="885.565" y2="639.626"/>
+    <g>
+      <polygon style="fill: #000000" points="893.799,639.619 882.825,645.12 885.565,639.626 882.814,634.14 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" points="893.799,639.619 882.825,645.12 885.565,639.626 882.814,634.14 "/>
+    </g>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" points="893.799,639.619 882.825,645.12 885.565,639.626 882.814,634.14 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x1="835.251" y1="194.316" x2="835.656" y2="341.073"/>
+    <g>
+      <polygon style="fill: #000000" points="835.679,349.308 830.159,338.344 835.656,341.073 841.138,338.313 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" points="835.679,349.308 830.159,338.344 835.656,341.073 841.138,338.313 "/>
+    </g>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" points="835.679,349.308 830.159,338.344 835.656,341.073 841.138,338.313 "/>
+  </g>
+  <g>
+    <g>
+      <ellipse style="fill: #000000" cx="1437.38" cy="639.553" rx="48.3874" ry="48.3874"/>
+      <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" cx="1437.38" cy="639.553" rx="48.3874" ry="48.3874"/>
+    </g>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" cx="1437.38" cy="639.553" rx="48.3874" ry="48.3874"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" cx="1437.38" cy="639.553" rx="48.3874" ry="48.3874"/>
+    <g>
+      <ellipse style="fill: #ffffff" cx="1437.38" cy="639.553" rx="41.4749" ry="41.4749"/>
+      <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" cx="1437.38" cy="639.553" rx="41.4749" ry="41.4749"/>
+    </g>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" cx="1437.38" cy="639.553" rx="41.4749" ry="41.4749"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" cx="1437.38" cy="639.553" rx="41.4749" ry="41.4749"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x1="1092.44" y1="639.616" x2="1378.31" y2="639.555"/>
+    <g>
+      <polygon style="fill: #000000" points="1386.54,639.553 1375.56,645.045 1378.31,639.555 1375.56,634.065 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" points="1386.54,639.553 1375.56,645.045 1378.31,639.555 1375.56,634.065 "/>
+    </g>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" points="1386.54,639.553 1375.56,645.045 1378.31,639.555 1375.56,634.065 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x1="835.686" y1="397.28" x2="835.627" y2="510.235"/>
+    <g>
+      <polygon style="fill: #000000" points="835.622,518.469 830.139,507.488 835.627,510.235 841.118,507.493 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" points="835.622,518.469 830.139,507.488 835.627,510.235 841.118,507.493 "/>
+    </g>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" points="835.622,518.469 830.139,507.488 835.627,510.235 841.118,507.493 "/>
+  </g>
+  <g>
+    <g>
+      <ellipse style="fill: #000000" cx="1332.26" cy="552.115" rx="48.3874" ry="48.3874"/>
+      <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" cx="1332.26" cy="552.115" rx="48.3874" ry="48.3874"/>
+    </g>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" cx="1332.26" cy="552.115" rx="48.3874" ry="48.3874"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" cx="1332.26" cy="552.115" rx="48.3874" ry="48.3874"/>
+    <g>
+      <ellipse style="fill: #ffffff" cx="1332.26" cy="552.115" rx="41.4749" ry="41.4749"/>
+      <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #ffffff" cx="1332.26" cy="552.115" rx="41.4749" ry="41.4749"/>
+    </g>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" cx="1332.26" cy="552.115" rx="41.4749" ry="41.4749"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.219595; stroke: #000000" cx="1332.26" cy="552.115" rx="41.4749" ry="41.4749"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" x1="1198.76" y1="553.265" x2="1273.19" y2="552.26"/>
+    <g>
+      <polygon style="fill: #000000" points="1281.42,552.149 1270.52,557.786 1273.19,552.26 1270.37,546.807 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" points="1281.42,552.149 1270.52,557.786 1273.19,552.26 1270.37,546.807 "/>
+    </g>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2.19595; stroke: #000000" points="1281.42,552.149 1270.52,557.786 1273.19,552.26 1270.37,546.807 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="620.936" y="245.216">
+    <tspan x="620.936" y="245.216">[Checkout]</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="847.64" y="246.768">
+    <tspan x="847.64" y="246.768">[Return]</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="155.405" y="605.508">
+    <tspan x="155.405" y="605.508">LIBRARY</tspan>
+    <tspan x="155.405" y="621.508">MANAGEMENT</tspan>
+    <tspan x="155.405" y="637.508">SYSTEM</tspan>
+  </text>
 </svg>
